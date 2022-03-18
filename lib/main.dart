@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       home: Material(
         child: Center(
           child: Container(
-            child: const Text("hello"),
+            child: const Text("Home Screen"),
           ),
         ),
       ),
