@@ -15,10 +15,7 @@ class Translatorpage extends StatelessWidget {
         child: const Text("Navigate to Home"),
         onPressed: () {
           if (1 == 1) {
-            print("Tanslator Page");
-          } else {
-            print("dummy");
-          }
+          } else {}
         },
       ),
     );
