@@ -15,7 +15,10 @@ class MyApp extends StatelessWidget {
       home: Material(
         child: Center(
           child: Container(
-            child: const Text("Home Screen"),
+            child: const Padding(
+              padding: EdgeInsets.all(8.0),
+              child: Text("First Screen Screen"),
+            ),
           ),
         ),
       ),
