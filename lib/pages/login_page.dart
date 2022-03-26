@@ -35,7 +35,7 @@ class _LoginPageState extends State<LoginPage> {
                 children: [
                   TextFormField(
                     decoration: const InputDecoration(
-                      hintText: "Enter username",
+                      hintText: "Please Enter username",
                       labelText: "username",
                     ),
                     onChanged: (value) {
