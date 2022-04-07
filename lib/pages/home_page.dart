@@ -16,7 +16,7 @@ class HomePage extends StatelessWidget {
       body: Center(
         // ignore: avoid_unnecessary_containers
         child: Container(
-          child: Text("Welcome to enemy $days of flutter by $name"),
+          child: Text("Welcome to enemy is $days of flutter by $name"),
         ),
       ),
       drawer: const MyDrawer(),
