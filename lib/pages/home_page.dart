@@ -6,7 +6,7 @@ import 'package:livetranslator/widgets/drawer.dart';
 class HomePage extends StatelessWidget {
   const HomePage({Key? key}) : super(key: key);
   final int days = 30;
-  final String name = "Catalog";
+  final String name = "Catalog App";
   @override
   Widget build(BuildContext context) {
     return Scaffold(
